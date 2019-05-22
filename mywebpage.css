@@ -1,0 +1,21 @@
+
+
+#head{
+    color: lightseagreen;
+    font-size: 40px;
+    text-align: center;
+}
+body {
+  font-size: 18px;
+      font-family: sans-serif;
+  background: Lightblue;
+ }
+.center{
+	text-align: center;
+}
+.subtitle{
+	color: OrangeRed;
+}
+td{
+	align-content: center;
+}
